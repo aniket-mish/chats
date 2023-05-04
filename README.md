@@ -1,6 +1,6 @@
 # good-to-have
 
-We are going to build a product from scratch 
+tags: `machine-learning` `distributed-systems` `pytorch` `fastai` `mlops`
 
 ## 1. Design
 
