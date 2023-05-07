@@ -15,6 +15,10 @@ tags: `machine-learning` `distributed-systems` `pytorch` `fastai` `mlops`
 - Augmentation
 
 ## 3. Modeling
+- Baselines
+- Evaluation
+- Experiment Tracking
+- Optimization
 
 ## 4. Developing
 
