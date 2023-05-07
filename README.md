@@ -3,8 +3,16 @@
 tags: `machine-learning` `distributed-systems` `pytorch` `fastai` `mlops`
 
 ## 1. Design
+- Product
+- Design
+- Project
 
 ## 2. Data
+- Labeling
+- Exploration
+- Preprocessing
+- Splitting
+- Augmentation
 
 ## 3. Modeling
 
