@@ -1,6 +1,6 @@
 # good-to-have
 
-tags: `machine-learning` `distributed-systems` `pytorch` `fastai` `mlops`
+tags: `chat-application` `generative-ai` `langchain` `machine-learning` `distributed-systems` `mlops`
 
 ## 1. Design
 - Product
