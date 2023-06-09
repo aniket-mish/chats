@@ -31,10 +31,3 @@ tags: `chat-application` `generative-ai` `langchain` `machine-learning` `distrib
 ## 8. Production
 
 ## 9. Data Engineering
-
-
-References:
-1. fast.ai
-2. madewithml
-3. langchain
-4. wandb
