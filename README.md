@@ -1,4 +1,4 @@
-# good-to-have
+# chats
 
 tags: `chat-application` `generative-ai` `langchain` `machine-learning` `distributed-systems` `mlops`
 
